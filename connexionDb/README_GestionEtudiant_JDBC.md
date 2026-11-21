@@ -1,5 +1,8 @@
 # GestionEtudiant
 
+JDBC signifie Java Database Connectivity.
+C'est une API Java qui permet à une application Java de communiquer avec une base de données comme MySQL.
+
 Application web Java permettant de gérer des utilisateurs avec **JSP,
 Servlets, JDBC, MySQL et Apache Tomcat**. Le projet met en pratique les
 quatre opérations CRUD : créer, lire, modifier et supprimer.
